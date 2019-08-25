@@ -1,0 +1,7 @@
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\bin\Release\lastLetterGame.exe.config
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\bin\Release\lastLetterGame.exe
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\bin\Release\lastLetterGame.pdb
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\obj\Release\lastLetterGame.csprojAssemblyReference.cache
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\obj\Release\lastLetterGame.csproj.CoreCompileInputs.cache
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\obj\Release\lastLetterGame.exe
+C:\Users\mr_zh\source\repos\lastLetterGame\lastLetterGame\obj\Release\lastLetterGame.pdb
